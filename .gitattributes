@@ -10,3 +10,4 @@
 ./data/departamentos-argentina.json filter=lfs diff=lfs merge=lfs -text
 ./fondo.gif filter=lfs diff=lfs merge=lfs -text
 ./fondo2.gif filter=lfs diff=lfs merge=lfs -text
+*.gif filter=lfs diff=lfs merge=lfs -text
