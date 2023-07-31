@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9bfdde36.css",
+    "main.js": "/static/js/main.ea859671.js",
+    "static/js/787.b5a584c5.chunk.js": "/static/js/787.b5a584c5.chunk.js",
+    "static/media/fondo2.gif": "/static/media/fondo2.04417fa1711bdf060f12.gif",
+    "static/media/pin.png": "/static/media/pin.36a36a925a53bd2abf9d.png",
+    "static/media/logoRadar.png": "/static/media/logoRadar.10220eabdfeab5a4c768.png",
+    "static/media/radar.png": "/static/media/radar.32d669bd7517240a6656.png",
+    "index.html": "/index.html",
+    "main.9bfdde36.css.map": "/static/css/main.9bfdde36.css.map",
+    "main.ea859671.js.map": "/static/js/main.ea859671.js.map",
+    "787.b5a584c5.chunk.js.map": "/static/js/787.b5a584c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bfdde36.css",
+    "static/js/main.ea859671.js"
+  ]
+}
